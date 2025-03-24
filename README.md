@@ -13,7 +13,7 @@
 ## Projects
 
 - **[The_girl_adventure](https://github.com/HHY0921/TheGirlAdventure)** - A game that include rhythm game, puzzle solving and RPG elements.
-- **[Music_visualizer](https://github.com/yourusername/another-repo)** - A python program that visualize any sound
+- **[Music_visualizer](https://github.com/HHY0921/MusicVisualizer)** - A python program that visualize any sound
 
 ## Currently Learning
 
